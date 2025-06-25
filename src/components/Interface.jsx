@@ -179,7 +179,7 @@ export const Interface = () => {
                   alt="linkedin"
                 />
               </a>
-              <a href={config.contact.socials.twitter} target="_blank">
+              <a href={config.contact.socials.github} target="_blank">
                 <img
                   className="contact__socials__icon"
                   src="icons/gita.png"
